@@ -1,0 +1,23 @@
+{
+    "sync.gist": "70f05275bf43f6dbb584a3e36e696c74",
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastUpload": "",
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "gitlens.keymap": "alternate",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "team.showWelcomeMessage": false,
+    "workbench.colorTheme": "Tomorrow Night Eighties",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false
+}
